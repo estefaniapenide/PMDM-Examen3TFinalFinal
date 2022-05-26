@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.penide_estefania_examen3t.MainActivity">
+    <item
+        android:id="@+id/action_simple"
+        android:orderInCategory="100"
+        android:title="SIMPLE"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_compuesto"
+        android:orderInCategory="101"
+        android:title="COMPUESTO"
+        app:showAsAction="always" />
+
+</menu>
